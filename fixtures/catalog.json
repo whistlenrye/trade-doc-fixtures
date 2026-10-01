@@ -1,0 +1,30 @@
+{
+  "shipment_id": "INV-2026-1187",
+  "note": "Synthetic. Harbourline Components and Southbank Industrial Supplies are fictional.",
+  "fixtures": [
+    {
+      "name": "commercial_invoice",
+      "doc_type": "shipping.commercial_invoice",
+      "text": "commercial_invoice/document.txt",
+      "expected": "commercial_invoice/expected.json"
+    },
+    {
+      "name": "packing_list",
+      "doc_type": "shipping.packing_list",
+      "text": "packing_list/document.txt",
+      "expected": "packing_list/expected.json"
+    },
+    {
+      "name": "bill_of_lading",
+      "doc_type": "shipping.bill_of_lading",
+      "text": "bill_of_lading/document.txt",
+      "expected": "bill_of_lading/expected.json"
+    },
+    {
+      "name": "certificate_of_origin",
+      "doc_type": "shipping.certificate_of_origin",
+      "text": "certificate_of_origin/document.txt",
+      "expected": "certificate_of_origin/expected.json"
+    }
+  ]
+}

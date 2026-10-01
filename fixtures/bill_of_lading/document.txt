@@ -1,0 +1,30 @@
+BILL OF LADING
+
+Shipper / Exporter:
+Harbourline Components Ltd
+18 Port Road, Beilun, Ningbo, China
+
+Consignee / Buyer:
+Southbank Industrial Supplies Pty Ltd
+42 Wharf Street, Port Melbourne VIC 3207, Australia
+
+Bill of Lading Number: HLCU8877665
+House Bill of Lading: HBL-2026-1187
+Invoice Number: INV-2026-1187
+Date: 14/03/2026
+Incoterms: FOB Ningbo
+Vessel: HARBOURLINE SPIRIT
+Voyage: 026E
+Port of Loading: CNNGB
+Port of Discharge: AUMEL
+Country of Origin: CN
+
+Item | Description | HS Code | Qty | Unit
+1 | Stainless tube fittings, 1/2 inch | 7307.29 | 1200 | PCE
+2 | Brass ball valves, 25mm | 8481.80 | 300 | PCE
+
+Packages: 18
+Gross weight kg: 842.4
+Container: HLCU1234568
+
+Declaration: Synthetic sample. Not a real shipment. Not a negotiable bill.

@@ -1,0 +1,20 @@
+CERTIFICATE OF ORIGIN
+
+Shipper / Exporter:
+Harbourline Components Ltd
+18 Port Road, Beilun, Ningbo, China
+
+Consignee / Buyer:
+Southbank Industrial Supplies Pty Ltd
+42 Wharf Street, Port Melbourne VIC 3207, Australia
+
+Invoice Number: INV-2026-1187
+Invoice Date: 12/03/2026
+Country of Origin: CN
+
+Item | Description | HS Code | Qty | Unit
+1 | Stainless tube fittings, 1/2 inch | 7307.29 | 1200 | PCE
+2 | Brass ball valves, 25mm | 8481.80 | 300 | PCE
+
+The goods described above are of Chinese origin.
+Declaration: Synthetic sample. Not issued by a chamber of commerce.

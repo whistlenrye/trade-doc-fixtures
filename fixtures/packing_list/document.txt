@@ -1,0 +1,26 @@
+PACKING LIST
+
+Shipper / Exporter:
+Harbourline Components Ltd
+18 Port Road, Beilun, Ningbo, China
+
+Consignee / Buyer:
+Southbank Industrial Supplies Pty Ltd
+42 Wharf Street, Port Melbourne VIC 3207, Australia
+
+Invoice Number: INV-2026-1187
+Invoice Date: 12/03/2026
+Country of Origin: CN
+Incoterms: FOB Ningbo
+Currency: USD
+
+Item | Description | HS Code | Qty | Unit | Packages | Net kg | Gross kg
+1 | Stainless tube fittings, 1/2 inch | 7307.29 | 1200 | PCE | 12 | 540.0 | 576.0
+2 | Brass ball valves, 25mm | 8481.80 | 300 | PCE | 6 | 250.0 | 266.4
+
+Packages: 18
+Net weight kg: 790.0
+Gross weight kg: 842.4
+Container: HLCU1234568
+
+Declaration: Synthetic sample. Not a real shipment.

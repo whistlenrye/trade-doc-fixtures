@@ -1,0 +1,27 @@
+COMMERCIAL INVOICE
+
+Shipper / Exporter:
+Harbourline Components Ltd
+18 Port Road, Beilun, Ningbo, China
+Tax ID: 91330200MA2FICTION
+
+Consignee / Buyer:
+Southbank Industrial Supplies Pty Ltd
+42 Wharf Street, Port Melbourne VIC 3207, Australia
+
+Invoice Number: INV-2026-1187
+Invoice Date: 12/03/2026
+Country of Origin: CN
+Incoterms: FOB Ningbo
+Currency: USD
+
+Item | Description | HS Code | Qty | Unit | Unit Price | Amount
+1 | Stainless tube fittings, 1/2 inch | 7307.29 | 1200 | PCE | 3.40 | 4080.00
+2 | Brass ball valves, 25mm | 8481.80 | 300 | PCE | 6.50 | 1950.00
+
+Subtotal: 6030.00
+Freight: 480.00
+Insurance: 90.00
+Total: 6600.00
+
+Declaration: Synthetic sample. Not a real shipment. Prices are invented.
